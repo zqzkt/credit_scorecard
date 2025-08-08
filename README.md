@@ -2,11 +2,6 @@
 
 This project aims to create a credit scorecard to determine student credit card approvals and appropriate cutoff scores.
 
-## Data Sets
-
-- Credit Bureau Data
-- Application Data
-
 ## Overview
 
 - Data Preparation
@@ -16,6 +11,15 @@ This project aims to create a credit scorecard to determine student credit card 
 - WOE Binning and Encoding
 - Creating a Credit Scorecard
 
-## Run
-Follow the instructions in the jupyter file to run :)
+## Preparations
+
+1. Download the datasets from the 'data' folder
+- Credit Bureau Data
+- Application Data
+
+2. Follow the instructions in the jupyter file to run :)
+
+## Acknowledgements
+
+This project was done in collaboration with Ashley, Varabelle, Jaslyn and Rebecca, and under the guidance of Professor Randall E. Duran
 
