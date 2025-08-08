@@ -14,8 +14,8 @@ This project aims to create a credit scorecard to determine student credit card 
 ## Preparations
 
 1. Download and unzip the data.zip file, making sure the datasets are in the 'data' folder
-- Credit Bureau Data
-- Application Data
+  - Credit Bureau Data
+  - Application Data
 
 2. Download the Credit_Scorecard jupyter file
 
